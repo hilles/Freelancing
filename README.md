@@ -1,14 +1,4 @@
-# Header 1
-## Header 2
-### Header 3
+# Showcase
+## Android Project (Reef Oasis Hotels)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
+![first](https://github.com/hilles/Showcase/blob/main/img/1.png)
