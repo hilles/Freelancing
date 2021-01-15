@@ -5,4 +5,8 @@
 ![second](https://github.com/hilles/Showcase/blob/main/img/2.png)
 ![third](https://github.com/hilles/Showcase/blob/main/img/3.png)
 ![fourth](https://github.com/hilles/Showcase/blob/main/img/4.png)
-![fifth](https://github.com/hilles/Showcase/blob/main/img/5.png)
+
+## Android Project (NightMag' Events)
+![nightmag](https://github.com/hilles/Showcase/blob/main/img/night3.png)
+![nightmag2](https://github.com/hilles/Showcase/blob/main/img/night1.png)
+![nightmag3](https://github.com/hilles/Showcase/blob/main/img/night2.png)
